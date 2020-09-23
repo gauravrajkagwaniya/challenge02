@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';// make a new function to get primarhy,secondary color and move black,white color to constantsabstract class Styles {//  COLORS  static const Color primaryColor = Color.fromRGBO(81, 193, 228, 1);}

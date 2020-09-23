@@ -1,0 +1,1 @@
+class Servies{  final String image;  final String rating;  final String title;  final String location;  final String distance;  final String time;  Servies({this.image, this.rating, this.title, this.location, this.distance, this.time});}
